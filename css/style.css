@@ -1,0 +1,13 @@
+  .hor-t-holder {
+    background-color: white;
+    display: inline-flex;
+    border: 1px solid #ccc;
+    color: #555;
+  }
+  
+  .hor-num {
+    border: none;
+    color: #555;
+    text-align: center;
+    width: 60px;
+  }
